@@ -1,13 +1,15 @@
 # Datasets Geniales
-A list of awesome public datasets for projects, divided into heuristic and actionable datasets 
+Una lista de interesantes conjuntos de datos públicos para proyectos, divididos en conjuntos de datos heurísticos y procesables.
+## Heurístico vs. Factible
 
-## Heuristic vs. Actionable
-### Heuristic
-A heuristic dataset is one whose purpose is to develop technical competency
-### Actionable
+### Heurístico
+Un conjunto de datos heurístico es aquel cuya finalidad es exclusivamente desarrollar la competencia técnica.  Estos conjuntos de datos suelen caracterizarse por su complejidad y desorden, y ofrecen a los alumnos la oportunidad de practicar la limpieza, transformación y manipulación de datos. Son muy valiosos para el aprendizaje práctico, ya que ayudan a desarrollar las habilidades necesarias para preparar y procesar datos para su análisis, que es una parte fundamental del ciclo de vida de los datos.
 
-## Public Data Archives
-### Government Agencies
+### Factible
+Este término es ideal para los conjuntos de datos utilizados en el análisis y la toma de decisiones. Un conjunto de datos procesable es aquel que está preparado para el análisis, con datos claros, relevantes y fiables. Está estructurado y formateado de tal manera que está listo para ser utilizado en herramientas de inteligencia empresarial, análisis estadísticos o modelos de aprendizaje automático. La clave aquí es que el conjunto de datos informe directamente los procesos de toma de decisiones, impulsando acciones que repercutan en los resultados empresariales, las decisiones políticas o la investigación científica.  Un conjunto de datos procesable puede necesitar algún tipo de formateo, modelado o limpieza, pero lo ideal es que se pueda utilizar para visualizaciones, ML, análisis estadísticos u otras aplicaciones.
+
+## Archivos de datos públicos
+### Agencias gubernamentales
 - https://datos.gob.mx/ `[México]`
 - https://datos.gob.ar/ `[Argentina]`
 - https://www.datos.gov.co/ `[Colombia]`
@@ -15,9 +17,7 @@ A heuristic dataset is one whose purpose is to develop technical competency
 - https://datosabiertos.bogota.gov.co/ `[Colombia - Bogotá]`
 - https://www.transparenciafiscal.gob.sv/ptf/es/PTF2-Datos_Abiertos.html `[El Salvador]`
 - https://data.gov/ `[Estadosunidos]`
-### Non-goverment Organizations
-### Institutes
-### Dataset Aggregators
+### Agregadores de conjuntos de datos
 - https://data.world/
 - https://www.kaggle.com/
 - https://datasetsearch.research.google.com/
@@ -27,29 +27,28 @@ A heuristic dataset is one whose purpose is to develop technical competency
 - https://data.nasdaq.com/search?filters=%5B%22Free%22%5D
 
 
-## Heuristic Datasets
-### Data Cleaning and Preprocessing
-### Data Modeling
-### Database Management
-### Time Series Analysis
-### Data Visualization
-### Big Data Handling
+## Conjuntos de datos heurísticos
+### Limpieza y preprocesamiento de datos
+### Modelado de Datos
+### Gestión de Bases de Datos
+### Análisis de Series Temporales
+### Visualización de Datos
+### Tratamiento de Big Data
 ### ETL
-### Data Streaming
-### API Integration & Management
-### Data Security & Governance
+### Streaming de Datos
+### Integración y Gestión de APIs
+### Seguridad y Gobernanza de Datos
 ### Machine Learning
-### Statistical Analysis
+### Análisis Estadístico
 
-## Actionable Datasets
-### Ecommerce
+## Conjuntos de datos útiles
+### Comercio electrónico
 ### Retail
-### Healthcare
+### Sanidad
 ### Marketing
-### Finance
+### Finanzas
 ### Manufacturing
 ### Education
 ### Real Estate
-### Transportation & Logistics
-### Tourism
-
+### Transporte y Logística
+### Turismo
